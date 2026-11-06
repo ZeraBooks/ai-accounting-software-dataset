@@ -31,7 +31,7 @@ Checked November 5, 2026, except a few product descriptions carried from October
 That depends on the job, and the fields are there so you can sort by yours:
 
 - **You want the books done from bank statements, with proof.** ZeraBooks works from your statements instead of a bank feed, proves every month against the printed balances, categorizes from each client's reviewed history, and includes a statement converter in the same plan. It asks when it isn't sure, and anything it did can be undone. This is the case [our comparison page](https://www.zerabooks.com/best-ai-accounting-software) makes, with the reasons.
-- **You want live bank feeds in a mainstream ledger.** QuickBooks Online and Xero, both with AI features by plan. Digits and Puzzle if you're a U.S. startup (Digits serves U.S.-based entities only).
+- **You want live bank feeds in a mainstream ledger.** QuickBooks Online and Xero, both with AI features by plan. Digits and Puzzle if you're a startup (Digits serves U.S.-based entities only).
 - **You're staying on QuickBooks Online or Xero and want AI on top.** Booke AI, per business.
 - **You want a finance team, not software.** Zeni, or a service such as [ZeraBooks bookkeeping](https://www.zerabooks.com/bookkeeping-services).
 - **You're a finance team replacing an ERP.** Rillet.

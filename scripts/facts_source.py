@@ -91,7 +91,7 @@ FACTS = [
     ("booke-ai", "ai_features", "Daily bank-feed categorization, document matching, missing-document requests, rules and thresholds, exception review with an audit trail, OCR for bills, invoices and receipts.", BOOKE, D, ""),
     ("booke-ai", "multi_entity", "Multi-client management on the Accounting Firms plan.", BOOKE, D, ""),
     # Zeni
-    ("zeni", "what_it_is", "AI bookkeeping with a dedicated finance team, for startups.", ZENI, D, ""),
+    ("zeni", "what_it_is", "AI bookkeeping plus a dedicated finance team, for pre-revenue and revenue companies.", ZENI, D, ""),
     ("zeni", "plans_and_list_prices", "AI Bookkeeping: Starter $549, Growth $799 a month; $494 and $719 a month billed annually; Enterprise custom.", ZENI, D, ""),
     ("zeni", "starting_price_monthly_usd", "549", ZENI, D, "$494 a month billed annually."),
     ("zeni", "billing_note", "\"Pricing based on bookkeeping complexity, monthly expenses, and annual revenue.\"", ZENI, D, ""),

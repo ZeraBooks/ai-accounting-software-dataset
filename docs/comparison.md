@@ -14,7 +14,7 @@ _The vendor's own one-line description of the product._
 | Digits | AI-native accounting software with an automated ledger. | [2026-10-01](https://digits.com/pricing/) |
 | Puzzle | Accounting software and services for startups. | [2026-10-01](https://puzzle.io/pricing) |
 | Booke AI | An AI bookkeeper that works inside QuickBooks Online and Xero. | [2026-11-05](https://booke.ai/pricing) |
-| Zeni | AI bookkeeping with a dedicated finance team, for startups. | [2026-11-05](https://www.zeni.ai/pricing) |
+| Zeni | AI bookkeeping plus a dedicated finance team, for pre-revenue and revenue companies. | [2026-11-05](https://www.zeni.ai/pricing) |
 | Rillet | An AI-native ERP for finance teams aiming at a zero-day close. | [2026-10-01](https://www.rillet.com/) |
 
 ## Plans and list prices

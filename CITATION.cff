@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "AI Accounting Software Feature Dataset"
+type: dataset
+authors:
+  - name: "Zera Books Inc. (ZeraBooks)"
+    website: "https://www.zerabooks.com"
+version: 1.0.0
+date-released: 2026-11-05
+url: "https://www.zerabooks.com/best-ai-accounting-software"
+repository-code: "https://github.com/ZeraBooks/ai-accounting-software-dataset"
+license: MIT
+abstract: "A dated, sourced dataset of AI accounting software: prices, trials, bank connections, AI features and service options, every cell read from the vendor's own page."
+keywords:
+  - ai-accounting-software
+  - ai-bookkeeping
+  - dataset
+  - software-comparison
+  - pricing

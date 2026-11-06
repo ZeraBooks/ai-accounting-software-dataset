@@ -1,0 +1,57 @@
+{
+  "name": "ai-accounting-software-dataset",
+  "version": "1.0.0",
+  "released": "2026-11-05",
+  "publisher": "Zera Books Inc. (ZeraBooks)",
+  "homepage": "https://www.zerabooks.com/best-ai-accounting-software",
+  "repository": "https://github.com/ZeraBooks/ai-accounting-software-dataset",
+  "license_code": "MIT",
+  "license_data": "CC-BY-4.0",
+  "fictional_data": true,
+  "file_counts": {
+    "data": 5,
+    "docs": 1,
+    "schema": 1
+  },
+  "files": [
+    {
+      "path": "data/facts.csv",
+      "bytes": 10672,
+      "sha256": "0fa36a91995be2943cc1a51feb87e1e5984a5bb6f30fd60bd5025693fb3fd9fa",
+      "rows": 75
+    },
+    {
+      "path": "data/facts.json",
+      "bytes": 24734,
+      "sha256": "c18524a1bcb314f31db36c5846b819e86aece2ce6aac9d31d8bae15a8e04b860"
+    },
+    {
+      "path": "data/fields.csv",
+      "bytes": 1614,
+      "sha256": "205670fee6a99da53624db8b813df34a0a7486710ffb937deb3ff3abcb85a9eb",
+      "rows": 16
+    },
+    {
+      "path": "data/matrix.csv",
+      "bytes": 5529,
+      "sha256": "1f4e1b91c6c505212561f46b7029cbb1118f2a231e824ec4f85d95990966dd7b",
+      "rows": 8
+    },
+    {
+      "path": "data/tools.csv",
+      "bytes": 717,
+      "sha256": "548a190994592cdff2d93dd301c7c52b975d554a15a2082d6d8139b805ceaf82",
+      "rows": 8
+    },
+    {
+      "path": "docs/comparison.md",
+      "bytes": 13294,
+      "sha256": "77229646af94d074841b89938282717a91be1841f7cb02ad24c53c76a0344d03"
+    },
+    {
+      "path": "schema/fact.schema.json",
+      "bytes": 981,
+      "sha256": "5419a922f6dc06cce14bdb7648f2e87a966e6861e65a0895dc2889710d5418e4"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+field,label,what_it_records
+what_it_is,What it is,The vendor's own one-line description of the product.
+plans_and_list_prices,Plans and list prices,"Every plan and its regular monthly list price in USD, as shown on the vendor's pricing page."
+starting_price_monthly_usd,Starting price (USD a month),"The lowest regular monthly price of a paid plan, as a number. Promotional prices are in promotion."
+billing_note,Billing note,"Annual vs monthly billing, per-business or per-entity pricing, and what the price is based on."
+promotion,Promotion,An introductory discount shown on the pricing page on the check date.
+free_trial,Free trial,Trial length and terms as stated.
+free_plan,Free plan,Whether a $0 plan is listed.
+bank_connections,Bank connections,"Live bank and card feeds, or how transactions get in."
+works_with,Works with,Whether it is its own ledger or works inside another accounting system.
+ai_features,AI features,"The AI features the vendor lists, in its own terms."
+ai_assistant,AI assistant,The name of the chat or agent assistant if the vendor names one.
+auto_categorization_claim,Auto-categorization claim,A categorization rate the vendor publishes. Blank if none is published.
+human_service,Human service,"Bookkeeping or finance staff offered by the vendor, and its price if published."
+multi_entity,Multiple companies,How additional companies or clients are priced.
+statement_documents,Statement and document capture,"Whether PDF bank statements or other documents can be read into the books, as the vendor describes it."
+availability,Availability,Country or entity limits stated by the vendor.

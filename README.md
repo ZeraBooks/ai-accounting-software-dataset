@@ -15,7 +15,7 @@ Regular monthly list prices in USD as shown on each pricing page. Full wording, 
 
 | Tool | Starting price a month | Free trial | How transactions get in | Ledger | Human service |
 |---|---|---|---|---|---|
-| ZeraBooks | $79 billed annually ($149 monthly) | 7 days, card at checkout | Uploaded bank and card statements, proven against printed balances | Its own | From $150 a month |
+| ZeraBooks | $79 billed annually ($149 monthly) | 7 days, card at checkout | Uploaded bank and card statements, proven against printed balances | Its own | Free setup and catch-up of past months |
 | QuickBooks Online | $38 (Simple Start); Free plan listed | 30-day option shown | Bank connections | Its own | |
 | Xero | $27 | "Get one month free" shown, no terms | Bank reconciliation | Its own | |
 | Digits | $65 | 30 days | 12,000+ banks, cards and payroll providers | Its own | |
